@@ -26,55 +26,55 @@ tBodyAcc.mean...Y	            12
 tBodyAcc.mean...Z	            12	
       Described below
 
-tGravityAcc.mean...X	         12	
+tGravityAcc.mean...X	        12	
       Described below
 
-tGravityAcc.mean...Y	         12	
+tGravityAcc.mean...Y	        12	
       Described below
 
-tGravityAcc.mean...Z	         12	      
+tGravityAcc.mean...Z	        12	      
       Described below
 
-tBodyAccJerk.mean...X	      12	
+tBodyAccJerk.mean...X	        12	
       Described below
 
-tBodyAccJerk.mean...Y	      12	
+tBodyAccJerk.mean...Y	        12	
       Described below
 
-tBodyAccJerk.mean...Z	      12	
+tBodyAccJerk.mean...Z	        12	
       Described below
 
-tBodyGyro.mean...X	         12	
+tBodyGyro.mean...X	            12	
       Described below
 
-tBodyGyro.mean...Y	         12
+tBodyGyro.mean...Y	            12
    	Described below
 
-tBodyGyro.mean...Z	         12	
+tBodyGyro.mean...Z	            12	
       Described below
 
-tBodyGyroJerk.mean...X	      12	
+tBodyGyroJerk.mean...X	        12	
       Described below
 
-tBodyGyroJerk.mean...Y	      12	
+tBodyGyroJerk.mean...Y	        12	
       Described below
 
-tBodyGyroJerk.mean...Z	      12	
+tBodyGyroJerk.mean...Z	        12	
       Described below
 
-tBodyAccMag.mean..	         12	
+tBodyAccMag.mean..	            12	
       Described below
 
-tGravityAccMag.mean..	      12	
+tGravityAccMag.mean..	        12	
       Described below
 
-tBodyAccJerkMag.mean..	      12	
+tBodyAccJerkMag.mean..	        12	
       Described below
 
-tBodyGyroMag.mean..	         12	
+tBodyGyroMag.mean..	            12	
       Described below
 
-tBodyGyroJerkMag.mean..	      12	
+tBodyGyroJerkMag.mean..	        12	
       Described below
 
 fBodyAcc.mean...X	            12	
@@ -86,34 +86,34 @@ fBodyAcc.mean...Y	            12
 fBodyAcc.mean...Z	            12	
       Described below
 
-fBodyAccJerk.mean...X	      12	
+fBodyAccJerk.mean...X	        12	
       Described below
 
-fBodyAccJerk.mean...Y	      12	
+fBodyAccJerk.mean...Y	        12	
       Described below
 
-fBodyAccJerk.mean...Z	      12	
+fBodyAccJerk.mean...Z	        12	
       Described below
 
-fBodyGyro.mean...X	         12	
+fBodyGyro.mean...X	            12	
       Described below
 
-fBodyGyro.mean...Y	         12	
+fBodyGyro.mean...Y	            12	
       Described below
 
-fBodyGyro.mean...Z	         12	
+fBodyGyro.mean...Z	            12	
       Described below
 
-fBodyAccMag.mean..	         12	
+fBodyAccMag.mean..	            12	
       Described below
 
-fBodyBodyAccJerkMag.mean..	   12	
+fBodyBodyAccJerkMag.mean..	    12	
       Described below
 
-fBodyBodyGyroMag.mean..	      12	
+fBodyBodyGyroMag.mean..	        12	
       Described below
 
-fBodyBodyGyroJerkMag.mean..	12	
+fBodyBodyGyroJerkMag.mean..	    12	
       Described below
 
 tBodyAcc.std...X	            12	
@@ -125,22 +125,22 @@ tBodyAcc.std...Y	            12
 tBodyAcc.std...Z	            12	
       Described below
 
-tGravityAcc.std...X	         12	
+tGravityAcc.std...X	            12	
       Described below
 
-tGravityAcc.std...Y	         12	
+tGravityAcc.std...Y	            12	
       Described below
 
-tGravityAcc.std...Z	         12	
+tGravityAcc.std...Z	            12	
       Described below
 
-tBodyAccJerk.std...X	         12	
+tBodyAccJerk.std...X	        12	
       Described below
 
-tBodyAccJerk.std...Y	         12	
+tBodyAccJerk.std...Y	        12	
       Described below
 
-tBodyAccJerk.std...Z	         12	
+tBodyAccJerk.std...Z	        12	
       Described below
 
 tBodyGyro.std...X	            12	
@@ -152,28 +152,28 @@ tBodyGyro.std...Y	            12
 tBodyGyro.std...Z	            12	
       Described below
 
-tBodyGyroJerk.std...X	      12	
+tBodyGyroJerk.std...X	        12	
       Described below
 
-tBodyGyroJerk.std...Y	      12	   
+tBodyGyroJerk.std...Y	        12	   
       Described below
 
-tBodyGyroJerk.std...Z	      12	
+tBodyGyroJerk.std...Z	        12	
       Described below
 
 tBodyAccMag.std..	            12	
       Described below
 
-tGravityAccMag.std..	         12	
+tGravityAccMag.std..	        12	
       Described below
 
-tBodyAccJerkMag.std..	      12	
+tBodyAccJerkMag.std..	        12	
       Described below
 
-tBodyGyroMag.std..	         12	
+tBodyGyroMag.std..	            12	
       Described below
 
-tBodyGyroJerkMag.std..	      12	
+tBodyGyroJerkMag.std..	        12	
       Described below
 
 fBodyAcc.std...X	            12	   
@@ -185,13 +185,13 @@ fBodyAcc.std...Y	            12
 fBodyAcc.std...Z	            12	
       Described below
 
-fBodyAccJerk.std...X	         12	
+fBodyAccJerk.std...X	        12	
       Described below
 
-fBodyAccJerk.std...Y       	12	
+fBodyAccJerk.std...Y       	    12	
       Described below
 
-fBodyAccJerk.std...Z	         12	
+fBodyAccJerk.std...Z	        12	
       Described below
 
 fBodyGyro.std...X	            12	
@@ -206,13 +206,13 @@ fBodyGyro.std...Z	            12
 fBodyAccMag.std..	            12	   
       Described below
 
-fBodyBodyAccJerkMag.std..	   12	
+fBodyBodyAccJerkMag.std..	    12	
       Described below
 
-fBodyBodyGyroMag.std..	      12	
+fBodyBodyGyroMag.std..	        12	
       Described below
 
-fBodyBodyGyroJerkMag.std..	   12	
+fBodyBodyGyroJerkMag.std..	    12	
       Described below
 
 
