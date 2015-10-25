@@ -3,11 +3,11 @@ Codebook for wearable computing dataset
 
 ## Variables
 ````
-subject                    1..2
+sourceType                 1..2
     Subject number
                            1..30 .Unique identifier assigned to each subject
 
-label                      6..18
+activityName               6..18
     Acitivity label
                            "WALKING"
                            "WALKING_UPSTAIRS"
@@ -16,203 +16,205 @@ label                      6..18
                            "STANDING"
                            "LAYING"
 
-tbodyaccmeanx              12
-    Described below
 
-tbodyaccmeany              12
-    Described below
+tBodyAcc.mean...X	            12	
+      Described below
 
-tbodyaccmeanz              12
-    Described below
+tBodyAcc.mean...Y	            12	
+      Described below
 
-tbodyaccstdx               12
-    Described below
+tBodyAcc.mean...Z	            12	
+      Described below
 
-tbodyaccstdy               12
-    Described below
+tGravityAcc.mean...X	         12	
+      Described below
 
-tbodyaccstdz               12
-    Described below
+tGravityAcc.mean...Y	         12	
+      Described below
 
-tgravityaccmeanx           12
-    Described below
+tGravityAcc.mean...Z	         12	      
+      Described below
 
-tgravityaccmeany           12
-    Described below
+tBodyAccJerk.mean...X	      12	
+      Described below
 
-tgravityaccmeanz           12
-    Described below
+tBodyAccJerk.mean...Y	      12	
+      Described below
 
-tgravityaccstdx            12
-    Described below
+tBodyAccJerk.mean...Z	      12	
+      Described below
 
-tgravityaccstdy            12
-    Described below
+tBodyGyro.mean...X	         12	
+      Described below
 
-tgravityaccstdz            12
-    Described below
+tBodyGyro.mean...Y	         12
+   	Described below
 
-tbodyaccjerkmeanx          12
-    Described below
+tBodyGyro.mean...Z	         12	
+      Described below
 
-tbodyaccjerkmeany          12
-    Described below
+tBodyGyroJerk.mean...X	      12	
+      Described below
 
-tbodyaccjerkmeanz          12
-    Described below
+tBodyGyroJerk.mean...Y	      12	
+      Described below
 
-tbodyaccjerkstdx           12
-    Described below
+tBodyGyroJerk.mean...Z	      12	
+      Described below
 
-tbodyaccjerkstdy           12
-    Described below
+tBodyAccMag.mean..	         12	
+      Described below
 
-tbodyaccjerkstdz           12
-    Described below
+tGravityAccMag.mean..	      12	
+      Described below
 
-tbodygyromeanx             12
-    Described below
+tBodyAccJerkMag.mean..	      12	
+      Described below
 
-tbodygyromeany             12
-    Described below
+tBodyGyroMag.mean..	         12	
+      Described below
 
-tbodygyromeanz             12
-    Described below
+tBodyGyroJerkMag.mean..	      12	
+      Described below
 
-tbodygyrostdx              12
-    Described below
+fBodyAcc.mean...X	            12	
+      Described below
 
-tbodygyrostdy              12
-    Described below
+fBodyAcc.mean...Y	            12	
+      Described below
 
-tbodygyrostdz              12
-    Described below
+fBodyAcc.mean...Z	            12	
+      Described below
 
-tbodygyrojerkmeanx         12
-    Described below
+fBodyAccJerk.mean...X	      12	
+      Described below
 
-tbodygyrojerkmeany         12
-    Described below
+fBodyAccJerk.mean...Y	      12	
+      Described below
 
-tbodygyrojerkmeanz         12
-    Described below
+fBodyAccJerk.mean...Z	      12	
+      Described below
 
-tbodygyrojerkstdx          12
-    Described below
+fBodyGyro.mean...X	         12	
+      Described below
 
-tbodygyrojerkstdy          12
-    Described below
+fBodyGyro.mean...Y	         12	
+      Described below
 
-tbodygyrojerkstdz          12
-    Described below
+fBodyGyro.mean...Z	         12	
+      Described below
 
-tbodyaccmagmean            12
-    Described below
+fBodyAccMag.mean..	         12	
+      Described below
 
-tbodyaccmagstd             12
-    Described below
+fBodyBodyAccJerkMag.mean..	   12	
+      Described below
 
-tgravityaccmagmean         12
-    Described below
+fBodyBodyGyroMag.mean..	      12	
+      Described below
 
-tgravityaccmagstd          12
-    Described below
+fBodyBodyGyroJerkMag.mean..	12	
+      Described below
 
-tbodyaccjerkmagmean        12
-    Described below
+tBodyAcc.std...X	            12	
+      Described below
 
-tbodyaccjerkmagstd         12
-    Described below
+tBodyAcc.std...Y	            12	
+      Described below
 
-tbodygyromagmean           12
-    Described below
+tBodyAcc.std...Z	            12	
+      Described below
 
-tbodygyromagstd            12
-    Described below
+tGravityAcc.std...X	         12	
+      Described below
 
-tbodygyrojerkmagmean       12
-    Described below
+tGravityAcc.std...Y	         12	
+      Described below
 
-tbodygyrojerkmagstd        12
-    Described below
+tGravityAcc.std...Z	         12	
+      Described below
 
-fbodyaccmeanx              12
-    Described below
+tBodyAccJerk.std...X	         12	
+      Described below
 
-fbodyaccmeany              12
-    Described below
+tBodyAccJerk.std...Y	         12	
+      Described below
 
-fbodyaccmeanz              12
-    Described below
+tBodyAccJerk.std...Z	         12	
+      Described below
 
-fbodyaccstdx               12
-    Described below
+tBodyGyro.std...X	            12	
+      Described below
 
-fbodyaccstdy               12
-    Described below
+tBodyGyro.std...Y	            12	
+      Described below
 
-fbodyaccstdz               12
-    Described below
+tBodyGyro.std...Z	            12	
+      Described below
 
-fbodyaccjerkmeanx          12
-    Described below
+tBodyGyroJerk.std...X	      12	
+      Described below
 
-fbodyaccjerkmeany          12
-    Described below
+tBodyGyroJerk.std...Y	      12	   
+      Described below
 
-fbodyaccjerkmeanz          12
-    Described below
+tBodyGyroJerk.std...Z	      12	
+      Described below
 
-fbodyaccjerkstdx           12
-    Described below
+tBodyAccMag.std..	            12	
+      Described below
 
-fbodyaccjerkstdy           12
-    Described below
+tGravityAccMag.std..	         12	
+      Described below
 
-fbodyaccjerkstdz           12
-    Described below
+tBodyAccJerkMag.std..	      12	
+      Described below
 
-fbodygyromeanx             12
-    Described below
+tBodyGyroMag.std..	         12	
+      Described below
 
-fbodygyromeany             12
-    Described below
+tBodyGyroJerkMag.std..	      12	
+      Described below
 
-fbodygyromeanz             12
-    Described below
+fBodyAcc.std...X	            12	   
+      Described below
 
-fbodygyrostdx              12
-    Described below
+fBodyAcc.std...Y	            12	
+      Described below
 
-fbodygyrostdy              12
-    Described below
+fBodyAcc.std...Z	            12	
+      Described below
 
-fbodygyrostdz              12
-    Described below
+fBodyAccJerk.std...X	         12	
+      Described below
 
-fbodyaccmagmean            12
-    Described below
+fBodyAccJerk.std...Y       	12	
+      Described below
 
-fbodyaccmagstd             12
-    Described below
+fBodyAccJerk.std...Z	         12	
+      Described below
 
-fbodybodyaccjerkmagmean    12
-    Described below
+fBodyGyro.std...X	            12	
+      Described below
 
-fbodybodyaccjerkmagstd     12
-    Described below
+fBodyGyro.std...Y	            12	
+      Described below
 
-fbodybodygyromagmean       12
-    Described below
+fBodyGyro.std...Z	            12	
+      Described below
 
-fbodybodygyromagstd        12
-    Described below
+fBodyAccMag.std..	            12	   
+      Described below
 
-fbodybodygyrojerkmagmean   12
-    Described below
+fBodyBodyAccJerkMag.std..	   12	
+      Described below
 
-fbodybodygyrojerkmagstd    12
-    Described below
+fBodyBodyGyroMag.std..	      12	
+      Described below
+
+fBodyBodyGyroJerkMag.std..	   12	
+      Described below
+
 
 ````
 
