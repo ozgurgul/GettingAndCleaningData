@@ -272,4 +272,4 @@ std: Standard deviation
 
 ## Transformation
 
-All the values are means, aggregated over 2 subjects and 6 activities, hence the resulting dataset is 12 rows by 88 columns.
+All the values are means, aggregated over 2 subjects and 6 activities, hence the resulting dataset is 12 rows by 68 columns.
