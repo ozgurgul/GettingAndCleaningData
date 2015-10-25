@@ -50,7 +50,7 @@ yTest = "./test/y_test.txt"
             select(activityName)
       # Create big activity dataset
       dt <- xDataset %>%
-            select(contains("mean"), contains("std")) %>% 
+            select(contains(".mean.."), contains(".std..")) %>% 
             mutate( sourceType="training") 
       dt <- cbind(dt, yDataset)
       
@@ -69,7 +69,7 @@ yTest = "./test/y_test.txt"
             select(activityName)
       # Create big activity dataset
       dtemp <- temp_dataset %>%
-            select(contains("mean"), contains("std")) %>% 
+            select(contains(".mean.."), contains(".std..")) %>% 
             mutate( sourceType="test") 
       dtemp <- cbind(dtemp, ytemp_dataset)
       
